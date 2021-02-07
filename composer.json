@@ -1,0 +1,10 @@
+{
+    "name": "dan/playground",
+    "authors": [
+        {
+            "name": "Daniel Falk",
+            "email": "info@danielfalk.com"
+        }
+    ],
+    "require": {}
+}
