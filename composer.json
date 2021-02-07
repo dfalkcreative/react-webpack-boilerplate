@@ -6,5 +6,8 @@
             "email": "info@danielfalk.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "App\\": "app/" }
+    }
 }
